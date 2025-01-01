@@ -3,7 +3,8 @@
 Welcome to my GitHub profile! Here's a little about me:
 ## 🌟 About Me
 
-- 🎓 **Software Engineering Student** at Viet Nam-Korea University of Information and Communication Technology.
+- 🎓 **Software Engineering Student** [VKU](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo9JTVRGNXGaNqiT7qqNJxctiVHM5NTdTG6w&s) Viet Nam-Korea University of Information and Communication Technology (VKU)**.
+
 - 💻 Passionate about building scalable and innovative software solutions.
 - 🌱 Currently learning: 
   ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat-square)
