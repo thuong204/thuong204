@@ -8,10 +8,11 @@ Welcome to my GitHub profile! Here's a little about me:
 - 🌱 Currently learning: NestJs, NextJs, GraphQl, Docker
 
 ## 🛠️ Technologies & Tools
-- **Languages**: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square, Typescript, Java, C++, PHP, Kotlin
+- **Languages**: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+t, Typescript, Java, C++, PHP, Kotlin
 - **Frameworks**: ExpressJs, Spring Boot, Laravel
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **Tools**: Git, Docker, IntelliJ IDEA, Postman
+- **Databases**: MongoDB, MySQL, SQL Server
+- **Tools**: Git, Docker, IntelliJ IDEA, Postman, Vs Code
 
 ## 📈 GitHub Stats
 ![Thuong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thuong204&show_icons=true&theme=radical)
