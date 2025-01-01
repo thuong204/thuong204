@@ -36,3 +36,21 @@
 - ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white&style=flat-square)
 - ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
 - ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)
+
+---
+
+## 📈 GitHub Stats
+
+![Thuong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thuong204&show_icons=true&theme=radical)
+
+---
+
+## 🌍 Connect with Me
+
+- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
+- 📝 Portfolio: [Your Portfolio](https://your-portfolio.com)
+
+---
+
+⭐️ From [thuong204](https://github.com/thuong204)
