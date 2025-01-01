@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Thuong Tran (Joyce Tran)
+# 👋 Hi there! I'm Joyce Tran
 
 Welcome to my GitHub profile! Here's a little about me:
 ## 🌟 About Me
