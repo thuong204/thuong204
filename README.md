@@ -1,3 +1,6 @@
+# 👋 Hi there! I'm Thuong Tran (Joyce Tran)
+
+Welcome to my GitHub profile! Here's a little about me:
 ## 🌟 About Me
 
 - 🎓 **Software Engineering Student** at Viet Nam-Korea University of Information and Communication Technology.
@@ -47,9 +50,9 @@
 
 ## 🌍 Connect with Me
 
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
-- 📝 Portfolio: [Your Portfolio](https://your-portfolio.com)
+- 📧 Email: [thuongtc.22it@vku.udn.vn](mailto:thuongtc.22it@vku.udn.vn)
+- 💼 LinkedIn: [Joyce Tran](https://www.linkedin.com/in/tr%E1%BA%A7n-c%C3%B4ng-th%C6%B0%E1%BB%9Dng-375bb72b0/)
+- 🌐 Facebook: [Trần Công Thường](https://www.facebook.com/vothuongdev/)
 
 ---
 
