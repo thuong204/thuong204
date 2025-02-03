@@ -11,6 +11,9 @@ Welcome to my GitHub profile! Here's a little about me:
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
   ![Hasura](https://img.shields.io/badge/-Hasura-1EB4D4?logo=hasura&logoColor=white&style=flat-square) 
   ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat-square)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
+
+  
 
   
 
