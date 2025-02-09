@@ -20,6 +20,9 @@ Welcome to my GitHub profile! Here's a little about me:
 ---
 
 ## 🛠️ Technologies & Tools
+### 🔥 My Top Languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thuong204&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Languages
  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square) ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat-square) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square) ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat-square) ![Pug](https://img.shields.io/badge/-Pug-A86454?logo=pug&logoColor=white&style=flat-square)
