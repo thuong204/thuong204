@@ -29,6 +29,8 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ## 📈 GitHub Stats  
 ![Thuong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thuong204&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thuong204&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thuong204&theme=dark)
 
 ---
 
