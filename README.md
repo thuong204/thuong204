@@ -35,6 +35,12 @@
 ### DevOps & Tools  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square) ![VPS](https://img.shields.io/badge/-VPS-4A90E2?logo=apache&logoColor=white&style=flat-square) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square) ![Cursor IDE](https://img.shields.io/badge/-Cursor%20IDE-000000?logo=cursor&logoColor=white&style=flat-square)
 
+### 🌐 Network Protocols  
+![MCP](https://img.shields.io/badge/-MCP-9933CC?style=flat-square&logo=protocols.io&logoColor=white) ![TCP](https://img.shields.io/badge/-TCP-005C99?style=flat-square&logo=wireshark&logoColor=white)  ![UDP](https://img.shields.io/badge/-UDP-FF9900?style=flat-square&logo=wireshark&logoColor=white)  ![HTTP/HTTPS](https://img.shields.io/badge/-HTTP%2FHTTPS-25A162?style=flat-square&logo=httpie&logoColor=white)  ![SMTP](https://img.shields.io/badge/-SMTP-0072C6?style=flat-square&logo=minutemailer&logoColor=white)  ![FTP](https://img.shields.io/badge/-FTP-4D4DFF?style=flat-square&logo=filezilla&logoColor=white)  
+
+### ⚙️ Automation Tools  
+![n8n](https://img.shields.io/badge/-n8n-FF6D00?logo=n8n&logoColor=white&style=flat-square)  
+
 ---
 
 ## 📈 GitHub Stats  
