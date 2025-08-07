@@ -1,9 +1,19 @@
 # 👋 Hi there! I'm Joyce Tran  
-Welcome to my GitHub profile! Here's a little about me:
+
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+<img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;I'm+a+Software+Engineering+Student!;Let's+build+cool+stuff+together!&center=false&width=500&height=45">
+
+<marquee behavior="scroll" direction="left" scrollamount="6">🚀 I'm currently working on exciting fullstack web projects!</marquee>
 
 ## 🌟 About Me  
 - 🎓 Software Engineering Student at Viet Nam-Korea University of Information and Communication Technology (VKU).  
-- 💻 Passionate about building scalable and innovative software solutions.
+- 💻 Passionate about building scalable and innovative software solutions.  
+- 🌱 Currently learning: Fullstack Web Dev, DevOps, AI  
+- ☕ I love coding + coffee + clean code  
+- 🛠️ Tech Stack: React, Node.js, Docker, Hasura, PostgreSQL  
+- 🧠 Always eager to learn and build impactful things!  
+
 
 ## 🛠️ Technologies & Tools  
 
