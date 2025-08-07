@@ -39,7 +39,7 @@
 ![MCP](https://img.shields.io/badge/-MCP-9933CC?style=flat-square&logo=protocols.io&logoColor=white) ![TCP](https://img.shields.io/badge/-TCP-005C99?style=flat-square&logo=wireshark&logoColor=white)  ![UDP](https://img.shields.io/badge/-UDP-FF9900?style=flat-square&logo=wireshark&logoColor=white)  ![HTTP/HTTPS](https://img.shields.io/badge/-HTTP%2FHTTPS-25A162?style=flat-square&logo=httpie&logoColor=white)  ![SMTP](https://img.shields.io/badge/-SMTP-0072C6?style=flat-square&logo=minutemailer&logoColor=white)  ![FTP](https://img.shields.io/badge/-FTP-4D4DFF?style=flat-square&logo=filezilla&logoColor=white)  
 
 ### ⚙️ Automation Tools  
-![n8n](https://img.shields.io/badge/-n8n-FF6D00?logo=n8n&logoColor=white&style=flat-square)  
+![n8n](https://img.shields.io/badge/-n8n-FF0000?logo=n8n&logoColor=white&style=flat-square)
 
 ---
 
